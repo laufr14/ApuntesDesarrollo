@@ -1,4 +1,7 @@
 ● Capítulo 0: Introducción a entornos de desarrollo.
+ ○ Definición
+    ○ Herramientas básicas
+    ○ Configuración del entorno
 ● Capítulo 1: Repositorios de Código
 ● Capítulo 2: UML
 ● Capítulo 3: IDEs
